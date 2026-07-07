@@ -1,0 +1,6 @@
+{
+  "name": "Global Library",
+  "description": "Premium commercial library located on Pali Road. Offering AC halls, silent zones, high-speed WiFi, and 24/7 access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
